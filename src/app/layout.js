@@ -5,6 +5,8 @@ import Providers from "./Providers";
 import Navbar from "@/components/Navbar";
 import SearchBox from "@/components/SearchBox";
 
+
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
