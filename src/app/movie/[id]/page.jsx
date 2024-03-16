@@ -17,7 +17,7 @@ export default async function MoviePage({ params }) {
             src={`https://image.tmdb.org/t/p/original/${movie.backdrop_path || movie.poster_path}`}
             width={500}
             height={300}
-            className="rounded-lg"
+            className="rounded-lg sm:hover:shadow-slate-500 sm:shadow-md "
             style={{ maxWidth: '100%', height: '100%' }}
         ></Image>
         <div className="p-2">
