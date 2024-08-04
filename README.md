@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ #  IMDB CLONE 📺
 
-## Getting Started
+ <img src="https://i.ibb.co/yk9Tb5N/Screenshot-2024-08-04-at-10-05-48-PM.png" alt="Screenshot-2024-08-04-at-10-05-48-PM" border="0">
 
-First, run the development server:
+ ##  Features 🔥
+📺 Dark Mode and Light mode<br>
+📺 Random movies in the banner when refresh<br>
+📺 Carousel of movies coming from the IMDB API<br>
+📺 Click the movie to see the description, reputation, complete title and more!<br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img src="https://i.ibb.co/RTDBWmg/Screenshot-2024-08-04-at-10-06-35-PM.png" alt="Screenshot-2024-08-04-at-10-06-35-PM" border="0">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##   Topics :
+🎥 1. IMDB API<br>
+🎥 2. Server Side Rendering<br>
+🎥 3. Client Side Rendering<br>
+🎥 4. Search Bar<br>
+🎥 5. Loading Effects<br>
+🎥 6. Handle Errors<br>
+🎥 7. Dark and Light mode<br>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+<img src="https://i.ibb.co/BNTYtfZ/Screenshot-2024-08-04-at-10-07-08-PM.png" alt="Screenshot-2024-08-04-at-10-07-08-PM" border="0">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+##   Tech Stack
+🎬 Fron-end React<br>
+🎬 Back-end <br>
 
-## Learn More
+Installation
+Clone the repo in your terminal writting:
 
-To learn more about Next.js, take a look at the following resources:
+#### `$ git clone https://github.com/kaifshaikh22/imdb-next
+In the project directory, you can run:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### `npm run dev`
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
